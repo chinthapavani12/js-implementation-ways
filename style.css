@@ -1,0 +1,41 @@
+.card{
+    width: 190px;
+    height: 200px;
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color: cadetblue;
+    margin: 10px;
+}
+ button{
+border-radius: 5px;
+background-color: aquamarine;
+}
+.parent{
+    display: flex;
+
+}
+.card1{
+    width: 190px;
+    height: 200px;
+    border: solid;
+   border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color:lightpink;
+    margin: 10px;  
+}
+.card2{
+    width: 190px;
+    height: 200px;
+    border: solid;
+   border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    background-color:lightskyblue;
+    margin: 10px;
+}
+.parent1{
+    display: flex;
+}
